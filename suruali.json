@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Suruali Classic Black",
+    "description": "Suruali ya kisasa ya rangi nyeusi, inafaa campus na streetwear style.",
+    "price": "Tsh 30,000",
+    "image": "images/suruali_black.jpg",
+    "stock": 15,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "name": "Suruali Jeans Trendy",
+    "description": "Suruali ya jeans kwa style ya casual na campus, imara na inafaa kila msichana au mvulana.",
+    "price": "Tsh 35,000",
+    "image": "images/suruali_jeans.jpg",
+    "stock": 12,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "name": "Suruali Khaki Slim Fit",
+    "description": "Suruali ya khaki yenye slim fit, trendy kwa wanafunzi wa campus.",
+    "price": "Tsh 32,000",
+    "image": "images/suruali_khaki.jpg",
+    "stock": 10,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "name": "Suruali Cargo Street",
+    "description": "Suruali ya cargo yenye pockets nyingi, street style na campus-friendly.",
+    "price": "Tsh 38,000",
+    "image": "images/suruali_cargo.jpg",
+    "stock": 8,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "name": "Suruali Grey Casual",
+    "description": "Suruali nyeusi na grey mix, casual style na inafaa kwa street na campus wear.",
+    "price": "Tsh 28,000",
+    "image": "images/suruali_grey.jpg",
+    "stock": 20,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "name": "Suruali Jogger Campus",
+    "description": "Suruali ya jogger, premium campus style, inafaa kwa casual na street fashion.",
+    "price": "Tsh 36,000",
+    "image": "images/suruali_jogger.jpg",
+    "stock": 18,
+    "sizes": ["S", "M", "L", "XL"]
+  }
+]

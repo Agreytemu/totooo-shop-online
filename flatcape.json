@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Flat Cap Campus Style",
+    "description": "Flat cap trendy kwa wanafunzi wa campus, street style casual.",
+    "price": "Tsh 15,000",
+    "image": "images/flatcap_campus_style.jpg",
+    "stock": 20,
+    "sizes": ["One Size"]
+  },
+  {
+    "name": "Flat Cap Classic Black",
+    "description": "Flat cap classic rangi nyeusi, inafaa kila occasion casual au streetwear.",
+    "price": "Tsh 18,000",
+    "image": "images/flatcap_classic_black.jpg",
+    "stock": 15,
+    "sizes": ["One Size"]
+  },
+  {
+    "name": "Flat Cap Trendy Grey",
+    "description": "Grey flat cap yenye texture ya premium, campus style na streetwear.",
+    "price": "Tsh 17,000",
+    "image": "images/flatcap_trendy_grey.jpg",
+    "stock": 12,
+    "sizes": ["One Size"]
+  },
+  {
+    "name": "Flat Cap Blue Vibe",
+    "description": "Flat cap yenye blue tone fresh, casual na street campus look.",
+    "price": "Tsh 16,000",
+    "image": "images/flatcap_blue_vibe.jpg",
+    "stock": 18,
+    "sizes": ["One Size"]
+  },
+  {
+    "name": "Flat Cap Premium Brown",
+    "description": "Brown flat cap premium, trendy na campus friendly.",
+    "price": "Tsh 20,000",
+    "image": "images/flatcap_premium_brown.jpg",
+    "stock": 10,
+    "sizes": ["One Size"]
+  },
+  {
+    "name": "Flat Cap Urban Black",
+    "description": "Flat cap black urban style, inafaa campus na street style casual.",
+    "price": "Tsh 19,000",
+    "image": "images/flatcap_urban_black.jpg",
+    "stock": 14,
+    "sizes": ["One Size"]
+  }
+]

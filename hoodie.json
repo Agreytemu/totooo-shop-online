@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Hoodie Black Classic",
+    "description": "Hoodie ya rangi nyeusi, casual na street/campus style, yenye warmth ya juu.",
+    "price": "Tsh 50,000",
+    "image": "images/hoodie_black.jpg",
+    "stock": 10,
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "name": "Hoodie Grey Urban",
+    "description": "Hoodie ya grey, trendy na casual, inafaa kwa wanafunzi wa campus.",
+    "price": "Tsh 52,000",
+    "image": "images/hoodie_grey.jpg",
+    "stock": 8,
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "name": "Hoodie Navy Street",
+    "description": "Hoodie ya navy blue kwa street style na campus casual, premium quality.",
+    "price": "Tsh 55,000",
+    "image": "images/hoodie_navy.jpg",
+    "stock": 12,
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "name": "Hoodie Red Campus",
+    "description": "Hoodie ya rangi nyekundu, modern campus style, inafaa casual street fashion.",
+    "price": "Tsh 53,000",
+    "image": "images/hoodie_red.jpg",
+    "stock": 7,
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "name": "Hoodie White Minimal",
+    "description": "Hoodie nyeupe, minimalist style, casual campus wear.",
+    "price": "Tsh 48,000",
+    "image": "images/hoodie_white.jpg",
+    "stock": 15,
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "name": "Hoodie Black Oversized",
+    "description": "Hoodie oversized ya rangi nyeusi, streetwear trend campus style.",
+    "price": "Tsh 57,000",
+    "image": "images/hoodie_oversized.jpg",
+    "stock": 9,
+    "sizes": ["M", "L", "XL"]
+  }
+]

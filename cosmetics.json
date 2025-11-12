@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Lotion ya Campus Glow",
+    "description": "Lotion ya ubora wa juu kwa campus glow, hutoa unyevu na softness.",
+    "price": "Tsh 15,000",
+    "image": "images/lotion_campus_glow.jpg",
+    "stock": 20,
+    "sizes": ["Standard"]
+  },
+  {
+    "name": "Mafuta ya Mwili Premium",
+    "description": "Mafuta ya mwili yenye fragrance ya premium, fresh na long-lasting.",
+    "price": "Tsh 18,000",
+    "image": "images/body_oil_premium.jpg",
+    "stock": 15,
+    "sizes": ["Standard"]
+  },
+  {
+    "name": "Seramu ya Uso",
+    "description": "Seramu ya uso, husaidia ngozi kuwa fresh na hydrated.",
+    "price": "Tsh 25,000",
+    "image": "images/face_serum.jpg",
+    "stock": 10,
+    "sizes": ["Standard"]
+  },
+  {
+    "name": "Lotion ya Handi",
+    "description": "Lotion ya mikono, inapunguza ukavu na hutoa softness.",
+    "price": "Tsh 12,000",
+    "image": "images/hand_lotion.jpg",
+    "stock": 18,
+    "sizes": ["Standard"]
+  },
+  {
+    "name": "Perfume ya Street",
+    "description": "Perfume fresh street fashion, long-lasting fragrance kwa campus style.",
+    "price": "Tsh 35,000",
+    "image": "images/perfume_street.jpg",
+    "stock": 12,
+    "sizes": ["Standard"]
+  },
+  {
+    "name": "Seti ya Skincare",
+    "description": "Seti kamili ya skincare, lotion + serum + oil, kwa campus glow.",
+    "price": "Tsh 55,000",
+    "image": "images/skincare_set.jpg",
+    "stock": 8,
+    "sizes": ["Standard"]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Perfume Street Fresh",
+    "description": "Perfume ya campus street style, fresh na long-lasting fragrance.",
+    "price": "Tsh 35,000",
+    "image": "images/perfume_street_fresh.jpg",
+    "stock": 12,
+    "sizes": ["Standard"]
+  },
+  {
+    "name": "Perfume Night Luxury",
+    "description": "Perfume ya rangi dark na aroma ya luxury, inafaa evening events.",
+    "price": "Tsh 45,000",
+    "image": "images/perfume_night_luxury.jpg",
+    "stock": 8,
+    "sizes": ["Standard"]
+  },
+  {
+    "name": "Perfume Campus Glow",
+    "description": "Fresh fragrance, inabaki muda mrefu na campus-friendly style.",
+    "price": "Tsh 38,000",
+    "image": "images/perfume_campus_glow.jpg",
+    "stock": 15,
+    "sizes": ["Standard"]
+  },
+  {
+    "name": "Perfume Citrus Blast",
+    "description": "Citrus fragrance, fresh na energetic, perfect kwa street style.",
+    "price": "Tsh 32,000",
+    "image": "images/perfume_citrus_blast.jpg",
+    "stock": 10,
+    "sizes": ["Standard"]
+  },
+  {
+    "name": "Perfume Elegant Rose",
+    "description": "Perfume yenye aroma ya rose elegant, long-lasting campus style.",
+    "price": "Tsh 40,000",
+    "image": "images/perfume_elegant_rose.jpg",
+    "stock": 9,
+    "sizes": ["Standard"]
+  },
+  {
+    "name": "Perfume Cool Breeze",
+    "description": "Fresh and cool fragrance, inafaa campus na street style casual.",
+    "price": "Tsh 36,000",
+    "image": "images/perfume_cool_breeze.jpg",
+    "stock": 14,
+    "sizes": ["Standard"]
+  }
+]

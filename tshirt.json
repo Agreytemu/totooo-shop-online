@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Jordan T-Shirt",
+    "description": "T-Shirt ya Jordan kwa streetwear na campus style, inafaa kwa kila msichana au mvulana.",
+    "price": "Tsh 30,000",
+    "image": "images/jordan_tshirt.jpg",
+    "stock": 12,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "name": "Nike Logo T-Shirt",
+    "description": "T-Shirt ya Nike yenye logo kubwa, casual na campus-friendly.",
+    "price": "Tsh 28,000",
+    "image": "images/nike_tshirt.jpg",
+    "stock": 15,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "name": "Adidas Street T-Shirt",
+    "description": "T-Shirt ya Adidas kwa street fashion na campus vibes.",
+    "price": "Tsh 27,000",
+    "image": "images/adidas_tshirt.jpg",
+    "stock": 10,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "name": "Campus Vibes Graphic T-Shirt",
+    "description": "T-Shirt ya kisasa yenye graphic design ya campus vibes.",
+    "price": "Tsh 25,000",
+    "image": "images/campus_vibes_tshirt.jpg",
+    "stock": 20,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "name": "Retro Classic T-Shirt",
+    "description": "T-Shirt ya retro style, casual na streetwear.",
+    "price": "Tsh 26,000",
+    "image": "images/retro_classic_tshirt.jpg",
+    "stock": 18,
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "name": "Minimal White T-Shirt",
+    "description": "T-Shirt nyeupe ya minimalist design, casual na campus-ready.",
+    "price": "Tsh 22,000",
+    "image": "images/minimal_white_tshirt.jpg",
+    "stock": 25,
+    "sizes": ["S", "M", "L", "XL"]
+  }
+]
